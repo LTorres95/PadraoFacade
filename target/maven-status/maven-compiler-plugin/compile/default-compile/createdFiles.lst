@@ -1,0 +1,5 @@
+facade\Reprodutor.class
+facade\Projetor.class
+facade\SistemaDeSom.class
+facade\CinemaEmCasaFacade.class
+facade\ExemploFacade.class
